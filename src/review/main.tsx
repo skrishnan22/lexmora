@@ -2,6 +2,7 @@ import { createRoot } from "react-dom/client";
 import { ReviewApp } from "./components/ReviewApp";
 import { ReviewSessionProvider } from "./providers/ReviewSessionProvider";
 import "./index.css";
+import "./devtools/seedWordBank";
 
 const rootElement = document.getElementById("root");
 
