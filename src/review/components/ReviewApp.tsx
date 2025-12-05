@@ -6,7 +6,7 @@ import { StatCard } from "./StatCard";
 import { VocabCard } from "./VocabCard";
 import { ActionButtons, type ReviewResponse } from "./ActionButtons";
 import imageLeft from "../../assets/image.png";
-import imageRight from "../../assets/vector-image-1.png";
+import imageRight from "../../assets/3d-vector-image.png";
 import lexmoraIcon from "../../assets/lexmora-icon.svg";
 import { useReviewMetrics } from "../hooks/useReviewMetrics";
 import { useReviewSession } from "../hooks/useReviewSession";
